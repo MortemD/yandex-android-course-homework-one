@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name_en">User\'s Profile</string>
+    <string name="app_name_ru">Анкета пользователя</string>
+
+    <string name="name_label">Имя</string>
+    <string name="age_label">Возраст</string>
+    <string name="gender_label">Пол</string>
+    <string name="subscription_label">Подписка</string>
+
+    <string name="gender_option_male">Мужской</string>
+    <string name="gender_option_female">Женский</string>
+
+    <string name="subscribe_label">Хочу получать новости</string>
+
+    <string name="submit_button">Отправить</string>
+
+    <string name="result_title">Итоговое сообщение:</string>
+</resources>
